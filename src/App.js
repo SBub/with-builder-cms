@@ -4,6 +4,8 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import CatchallPage from "./page/CatchallPage";
 import HomePage from "./page/HomePage";
 
+import "./components/Search";
+
 function App() {
   return (
     <>
